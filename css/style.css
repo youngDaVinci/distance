@@ -504,7 +504,11 @@ body {
 		transform: translateX(0%);
 	}
 	.m-menu {
+		z-index: 2000;
 		display: flex;
+	}
+	.m-menu .line {
+		color: #fff;
 	}
 }
 @media (max-width: 760px) {
