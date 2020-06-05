@@ -55,7 +55,7 @@ body {
 	height: 32px;
 	border-radius: 50%;
 	-o-object-fit: cover;
-	   object-fit: cover;
+	object-fit: cover;
 }
 .user-name {
 	color: #ffffff;
@@ -459,10 +459,9 @@ body {
 	background-color: transparent;	
 }
 .m-menu .line {
-	width: 80%;
+	width: 25px;
 	height: 1px;
 	background-color: #fff;
-
 }
 
 @media (max-width: 1250px) {
